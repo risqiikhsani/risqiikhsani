@@ -4,7 +4,8 @@
 <p align="center">
 Hello my name is Risqi Ikhsani <br>
 I love technology<br>
-currently I've been working with ReactJS and Python<br>
+Currently I've been developing react js, nextjs,react native app<br>
+also some backends like Python,NodeJS,and ASP.NET<br>
 I also love about game development and C++ <br>
 beside coding , I also love so much about Nature <br>
 My favorite country is Switzerland <br>
